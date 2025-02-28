@@ -13,7 +13,9 @@
 - Se reajustaron algunas partes en el menú de Rosalina, como la ordenación de los filtros de Pantalla, entre otros ajustes.
 - Se incorporó el enlace de ayuda Técnica Discord en los escenarios de error: Arm9, Arm11 o Errdisp.
 - Estos ajustes también se han propocionado en la versión Inglesa, a excepción de la traducción. 
-![571a269f-931c-480c-904c-e5767c3e983b](https://github.com/user-attachments/assets/c4efa492-1518-4126-bab2-e3e5597da5eb)
+
+![571a269f-931c-480c-904c-e5767c3e983b](https://github.com/user-attachments/assets/6fa01d70-1257-4cce-be68-6495e20f459e)
+
 
 # CRÉDITOS
 - TuxSH, compilador de Luma 13-3, el cual se tomo como base para el proyecto.
