@@ -14,7 +14,8 @@
 - Se incorporó el enlace de ayuda Técnica Discord en los escenarios de error: Arm9, Arm11 o Errdisp.
 - Estos ajustes también se han propoRcionado en la versión Inglesa, a excepción de la traducción. 
 
-![4c3673d0-8743-4ef1-983f-e1bdfb3299aa](https://github.com/user-attachments/assets/4165e34a-67a7-408b-9f87-74f938aee4be)
+![63027c97-8169-4841-9e4f-108e0e09af0b](https://github.com/user-attachments/assets/16aabb4f-35bd-4290-9b72-2ccda34daa52)
+[Imagen en portugués, porque aquí cabemos TODOS] 
 
 # CRÉDITOS
 - TuxSH, compilador de Luma 13-3, el cual se tomo como base para el proyecto.
