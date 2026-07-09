@@ -16,6 +16,5 @@
 - Estos ajustes también se han propoRcionado en la versión Inglesa, a excepción de la traducción. 
 
 # CRÉDITOS
-- TuxSH, compilador de Luma 13-3, el cual se tomo como base para el proyecto.
+- TuxSH, compilador de Luma 13.3.4, el cual se tomo como base para el proyecto.
 - Goku MoDz y Kelonio 3Ds, compiladores del Fork Luma Pink.  
-
