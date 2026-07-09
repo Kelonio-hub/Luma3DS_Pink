@@ -1,4 +1,5 @@
 # LUMA PINK es un FORK de Luma: https://github.com/LumaTeam/Luma3DS
+<img width="1672" height="941" alt="b4af4870-fabe-4b85-9f8a-4bb7a35a27a8" src="https://github.com/user-attachments/assets/ace20f45-7d60-419c-a27c-943824e08df4" />
 
 # TRADUCCIÓN EN DISTINTOS IDIOMAS: 
 - Español
@@ -20,3 +21,4 @@
 # CRÉDITOS
 - TuxSH, compilador de Luma 13-3, el cual se tomo como base para el proyecto.
 - Goku MoDz y Kelonio 3Ds, compiladores del Fork Luma Pink.  
+
