@@ -12,6 +12,7 @@ Method for installing CIAs on Nintendo 3DS using GodMode9.
 - These adjustments have also been applied to the English version (excluding the translation itself).
 - Can be viewed and edited using Visual Studio Code.
 - #TeAmoKelonio
+- Web Guide: https://goo.su/zIhzEO
 - Video Guide: https://www.youtube.com/watch?v=bxgEtnDPr8s
   
 _________
@@ -27,6 +28,7 @@ Método de Instalación de cias en Nintendo 3DS mediante Godmode9.
 - Estos ajustes también se han propoRcionado en la versión Inglesa, a excepción de la traducción.  
 - Puede visualizar y editar desde Visual Studio Code.
 - #TeAmoKelonio
+- Web Guía: https://goo.su/zIhzEO
 - Vídeo Guía:  https://www.youtube.com/watch?v=bxgEtnDPr8s
 
 
